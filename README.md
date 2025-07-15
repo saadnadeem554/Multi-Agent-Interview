@@ -6,6 +6,7 @@ This project simulates a **technical interview process** using autonomous AI age
 It showcases how multiple agents can collaborate to mimic real-life recruiter-candidate interactions in an automated workflow.
 
 ---
+![Mock Interview Flowchart](InterviewAgent.png)
 
 ## 🧩 Agents and Roles
 
